@@ -1,0 +1,122 @@
+{
+  "V01": {
+    "path": "seed_audios/V01_种草博主.mp3",
+    "gender": "female",
+    "role_desc": "种草博主",
+    "sample_text": "家人们，今天一定要给你们安利这个神仙好物，真的是不用不知道，一用吓一跳！"
+  },
+  "V02": {
+    "path": "seed_audios/V02_资深吃货.mp3",
+    "gender": "male",
+    "role_desc": "资深吃货",
+    "sample_text": "哇，这个色泽，这个香味，一口咬下去，肉汁在嘴里爆开的感觉简直太绝了！"
+  },
+  "V03": {
+    "path": "seed_audios/V03_精明主妇.mp3",
+    "gender": "female",
+    "role_desc": "精明主妇",
+    "sample_text": "过日子嘛，最重要的就是性价比，这个东西我对比了好几家，还是这里最划算。"
+  },
+  "V04": {
+    "path": "seed_audios/V04_品鉴专家.mp3",
+    "gender": "male",
+    "role_desc": "品鉴专家",
+    "sample_text": "这款红酒的单宁结构非常紧致，回甘带着一丝橡木桶的香气，非常难得。"
+  },
+  "V05": {
+    "path": "seed_audios/V05_邻家女孩.mp3",
+    "gender": "female",
+    "role_desc": "邻家女孩",
+    "sample_text": "今天天气真的超级好耶，不如我们一起去公园骑自行车吧，感觉心情都变亮了！"
+  },
+  "V06": {
+    "path": "seed_audios/V06_科技极客.mp3",
+    "gender": "male",
+    "role_desc": "科技极客",
+    "sample_text": "从参数上看，这次的芯片制程提升了百分之二十，能效比的表现可以说是相当惊人。"
+  },
+  "V07": {
+    "path": "seed_audios/V07_AI助手.mp3",
+    "gender": "female",
+    "role_desc": "AI助手",
+    "sample_text": "为您查询到以下结果。当前室外温度二十六摄氏度，建议您携带雨伞。"
+  },
+  "V08": {
+    "path": "seed_audios/V08_电竞解说.mp3",
+    "gender": "male",
+    "role_desc": "电竞解说",
+    "sample_text": "这一波团战开得非常完美！打野直接切入后排，瞬秒了对面的核心输出！漂亮！"
+  },
+  "V09": {
+    "path": "seed_audios/V09_新闻主播.mp3",
+    "gender": "female",
+    "role_desc": "新闻主播",
+    "sample_text": "观众朋友们晚上好，欢迎收看今天的新闻联播节目，首先我们来看国内要闻。"
+  },
+  "V10": {
+    "path": "seed_audios/V10_政府发言.mp3",
+    "gender": "male",
+    "role_desc": "政府发言",
+    "sample_text": "我们将坚定不移地推进这项改革措施，确保每一项政策都能落到实处，惠及民生。"
+  },
+  "V11": {
+    "path": "seed_audios/V11_有声书男.mp3",
+    "gender": "male",
+    "role_desc": "有声书男",
+    "sample_text": "夜深了，窗外的月光洒在书桌上，他想起了多年前那个遥远的下午，风也是这样吹着。"
+  },
+  "V12": {
+    "path": "seed_audios/V12_文艺女青.mp3",
+    "gender": "female",
+    "role_desc": "文艺女青",
+    "sample_text": "或许每个人心中都有一座孤岛，我们在海浪声中寻找着彼此的回响，却又害怕靠近。"
+  },
+  "V13": {
+    "path": "seed_audios/V13_旅游达人.mp3",
+    "gender": "female",
+    "role_desc": "旅游达人",
+    "sample_text": "你们看！身后的这座雪山简直美到窒息！这绝对是我这辈子见过的最蓝的天空！"
+  },
+  "V14": {
+    "path": "seed_audios/V14_老向导.mp3",
+    "gender": "male",
+    "role_desc": "老向导",
+    "sample_text": "这几块石头可有些年头咯，据说还是清朝的时候，村里的老人一块一块背上来的。"
+  },
+  "V15": {
+    "path": "seed_audios/V15_北京大爷.mp3",
+    "gender": "male",
+    "role_desc": "北京大爷",
+    "sample_text": "哎哟喂，您且慢着点儿，这事儿啊急不得，咱得慢慢儿盘算盘算。"
+  },
+  "V16": {
+    "path": "seed_audios/V16_川渝妹子.mp3",
+    "gender": "female",
+    "role_desc": "川渝妹子",
+    "sample_text": "哎呀这个火锅真的是太巴适了，辣得我眼泪都要流出来了，但是真的好爽哦！"
+  },
+  "V17": {
+    "path": "seed_audios/V17_广东老板.mp3",
+    "gender": "male",
+    "role_desc": "广东老板",
+    "sample_text": "做生意讲究的是诚信，大家互惠互利，有钱一起赚嘛，是不是这个道理？"
+  },
+  "V18": {
+    "path": "seed_audios/V18_东北小伙.mp3",
+    "gender": "male",
+    "role_desc": "东北小伙",
+    "sample_text": "这嘎达的菜量是真大啊，必须得整两口，要不都对不起这顿饭！"
+  },
+  "V19": {
+    "path": "seed_audios/V19_可爱童声.mp3",
+    "gender": "child",
+    "role_desc": "可爱童声",
+    "sample_text": "妈妈妈妈，你看那个云彩，像不像一只大大的棉花糖呀？"
+  },
+  "V20": {
+    "path": "seed_audios/V20_疲惫社畜.mp3",
+    "gender": "male",
+    "role_desc": "疲惫社畜",
+    "sample_text": "唉，终于下班了，感觉身体被掏空，现在只想回家躺在床上，一动也不动。"
+  }
+}
